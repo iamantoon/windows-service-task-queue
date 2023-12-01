@@ -1,0 +1,9 @@
+C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe.config
+C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe
+C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.pdb
+C:\Labs\lab3\Task_Queue\obj\Debug\Task_Queue.csproj.AssemblyReference.cache
+C:\Labs\lab3\Task_Queue\obj\Debug\Task_Queue.csproj.CoreCompileInputs.cache
+C:\Labs\lab3\Task_Queue\obj\Debug\Task_Queue.exe
+C:\Labs\lab3\Task_Queue\obj\Debug\Task_Queue.pdb
+C:\Labs\lab3\Task_Queue\obj\Debug\Task_Queue.ProjectInstaller.resources
+C:\Labs\lab3\Task_Queue\obj\Debug\Task_Queue.csproj.GenerateResource.cache

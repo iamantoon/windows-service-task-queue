@@ -1,0 +1,68 @@
+﻿Выполняется установка сборки 'C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe
+   logfile = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.InstallLog
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe.
+Выполняется фиксация сборки 'C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe
+   logfile = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.InstallLog
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe
+   logfile = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.InstallLog
+Устанавливается служба Task_Queue...
+Создается исходный EventLog Task_Queue в журнале Application...
+Выполняется откат для сборки 'C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe
+   logfile = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Task_Queue.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe
+   logfile = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.InstallLog
+Устанавливается служба Task_Queue...
+Служба Task_Queue успешно установлена.
+Создается исходный EventLog Task_Queue в журнале Application...
+Выполняется фиксация сборки 'C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe
+   logfile = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.InstallLog
+Выполняется удаление сборки 'C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe
+   logfile = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.InstallLog
+Выполняется удаление источника EventLog Task_Queue.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe
+   logfile = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.InstallLog
+Выполняется удаление источника EventLog Task_Queue.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.exe
+   logfile = C:\Labs\lab3\Task_Queue\bin\Debug\Task_Queue.InstallLog
+Выполняется удаление источника EventLog Task_Queue.
+Выполняется удаление службы Task_Queue из системы...
+Служба Task_Queue успешно удалена из системы.
